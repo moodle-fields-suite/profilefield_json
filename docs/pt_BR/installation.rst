@@ -10,7 +10,7 @@ Requisitos
 A partir de um ZIP
 ------------------
 
-1. Baixe ``profilefield_json-<versão>.zip`` das `releases <https://github.com/moodle-by-kelsoncm/profilefield_json/releases>`_.
+1. Baixe ``profilefield_json-<versão>.zip`` das `releases <https://github.com/moodle-fields-suite/profilefield_json/releases>`_.
 2. Acesse *Administração do site > Plugins > Instalar plugins*, envie o ZIP e siga os passos.
 3. Conclua a atualização em *Administração do site > Notificações*.
 
@@ -21,7 +21,7 @@ Copie o repositório para ``user/profile/field/json`` (``public/user/profile/fie
 
 .. code-block:: bash
 
-   git clone https://github.com/moodle-by-kelsoncm/profilefield_json.git public/user/profile/field/json
+   git clone https://github.com/moodle-fields-suite/profilefield_json.git public/user/profile/field/json
 
 Idiomas
 -------

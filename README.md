@@ -2,7 +2,7 @@
 
 [English](#english) · [Português (Brasil)](#português-brasil)
 
-Documentation / Documentação: <https://moodle-by-kelsoncm.github.io/profilefield_json/>
+Documentation / Documentação: <https://moodle-fields-suite.github.io/profilefield_json/>
 
 ## English
 
@@ -24,7 +24,7 @@ Instalação: copie este repositório para `user/profile/field/json` (`public/us
 
 ## Support and privacy / Suporte e privacidade
 
-- Issue tracker / Rastreador de issues: <https://github.com/moodle-by-kelsoncm/profilefield_json/issues>
+- Issue tracker / Rastreador de issues: <https://github.com/moodle-fields-suite/profilefield_json/issues>
 - Privacy / Privacidade: the documents are personal data; they are exported and deleted with the user's data (Privacy API) / os documentos são dados pessoais; são exportados e apagados com os dados do usuário.
 - Translations / Traduções: only English is shipped; other languages go through AMOS / o pacote traz só inglês; outros idiomas via AMOS.
 

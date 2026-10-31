@@ -37,4 +37,4 @@ Main features
 Links
 -----
 
-* Source code and issues: https://github.com/moodle-by-kelsoncm/profilefield_json
+* Source code and issues: https://github.com/moodle-fields-suite/profilefield_json

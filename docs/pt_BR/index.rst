@@ -37,4 +37,4 @@ Principais recursos
 Links
 -----
 
-* Código-fonte e issues: https://github.com/moodle-by-kelsoncm/profilefield_json
+* Código-fonte e issues: https://github.com/moodle-fields-suite/profilefield_json
